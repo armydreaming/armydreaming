@@ -1,10 +1,11 @@
 <p align="center">
- 
-  ![l](https://i.pinimg.com/736x/6d/0d/f7/6d0df73a4c49e452a99461287bb56147.jpg)
+ <img width="625" height="500" alt="image" src="https://i.pinimg.com/736x/6d/0d/f7/6d0df73a4c49e452a99461287bb56147.jpg" />
   
 <p align="center">
 <img width="625" height="99" alt="image" src="https://github.com/user-attachments/assets/afad8a81-901e-4d0f-9c05-3466b22b442c" />
 
+<p align="center">
+  <img width="200" height="320" alt="image" src="https://64.media.tumblr.com/c198907ff1ded6068507ec1c63d0e35d/bd369c6e033fb438-6d/s500x750/73acb6c0924fb9ab4ce75f943b5b03a6dd612c9a.pnj" />
 <!--
 **armydreaming/armydreaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

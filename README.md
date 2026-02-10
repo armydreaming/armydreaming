@@ -1,4 +1,9 @@
-![l](https://i.pinimg.com/736x/6d/0d/f7/6d0df73a4c49e452a99461287bb56147.jpg)
+<p align="center">
+ 
+  ![l](https://i.pinimg.com/736x/6d/0d/f7/6d0df73a4c49e452a99461287bb56147.jpg)
+  
+<p align="center">
+<img width="625" height="99" alt="image" src="https://github.com/user-attachments/assets/afad8a81-901e-4d0f-9c05-3466b22b442c" />
 
 <!--
 **armydreaming/armydreaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

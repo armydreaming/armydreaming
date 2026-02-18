@@ -1,9 +1,14 @@
 <p align="center">
- <img width="625" height="500" alt="image" src="https://i.pinimg.com/736x/6d/0d/f7/6d0df73a4c49e452a99461287bb56147.jpg" />
+<img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/cf0edd74-3fe3-4938-b5d9-f75e5fb140e7" />
+
+<img width="1465" height="880" alt="image" src="https://github.com/user-attachments/assets/0b52dbbe-c643-4902-a6ae-1a74c88a4595" />
 
 <p align="center">
-  <img width="200" height="320" alt="image" src="https://64.media.tumblr.com/c198907ff1ded6068507ec1c63d0e35d/bd369c6e033fb438-6d/s500x750/73acb6c0924fb9ab4ce75f943b5b03a6dd612c9a.pnj" />
- alfred approves of these gay people
+<img src="https://www.font-generator.com/font-api/preview/Blackletter/46/603913/none/Klaus+-+Ludwig+-+Alfred/579013ae029d779718496a96d4dab28c.png" />
+
+<p align="center">
+ <img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/ee8b25f3-1aa5-4d98-91ce-b8298396b2a5" />
+
 <!--
 **armydreaming/armydreaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -7,6 +7,12 @@
 <img src="https://www.font-generator.com/font-api/preview/Blackletter/46/603913/none/Klaus+-+Ludwig+-+Alfred/579013ae029d779718496a96d4dab28c.png" />
 
 <p align="center">
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=armydreaming&style=for-the-badge&color=orange&label=horses">
+</a>
+
+
+<p align="center">
  <img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/ee8b25f3-1aa5-4d98-91ce-b8298396b2a5" />
 
 <!--
